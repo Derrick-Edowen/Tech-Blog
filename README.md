@@ -49,7 +49,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 In order to run this  application, the user must install the required node packages. This is done by typing npm install in the terminal. The user must seed the data into  the data base by typing 'node seeds' in the terminal to begin. User must then  run 'node server.js' to start the server at localhost:3001. 
 
 ## Usage
-
+[Screenshot](./image.PNG)
 
 ## Credits
 N/A
